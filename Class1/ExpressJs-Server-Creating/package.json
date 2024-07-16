@@ -1,0 +1,15 @@
+{
+  "name": "expressjs-server-creating",
+  "version": "1.0.0",
+  "description": "Lets start Learning  of Exprees Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Rakesh Reddy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}

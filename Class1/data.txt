@@ -1,7 +1,0 @@
-Agenda:-
--Web Architecture
--MERN
--Node Js
--Commands
--creating HTTPS Server
--creating API'S

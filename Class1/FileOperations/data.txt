@@ -1,0 +1,16 @@
+let const =[
+    {
+        id:1,
+        name:"Rakesh",
+    },
+    {
+        id:2,
+        name:"Praveen",
+    },
+    {
+        id:3,
+        name:"Vishal",
+    },
+]Hello WorldHello WorldHello World
+Hello World
+Hello World

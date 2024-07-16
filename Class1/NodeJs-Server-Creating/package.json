@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-learning",
+  "version": "1.0.0",
+  "description": "My NodeJS Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Rakesh",
+  "license": "ISC"
+}
